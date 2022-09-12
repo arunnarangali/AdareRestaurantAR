@@ -1,0 +1,117 @@
+body {
+background-color: rgba(26, 25, 25, 0.774)
+}
+
+.menu {
+    /* background-color: rgb(139, 68, 68); */
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    height: 118px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.568);
+   
+}
+
+.main{
+    display: flex;
+    
+}
+.cb{
+    flex: 2;
+    text-align: center;
+    margin: 10px;
+}
+.cb img{
+    width: 281px;
+height: 164px;
+}
+
+.bb{
+    
+    flex: 2;
+    text-align: center;
+    margin: 10px;
+}
+
+.bb  img{
+width: 264px;
+height: 177px;
+}
+
+.vb{
+    flex: 2;
+    text-align: center;
+    margin: 10px;
+    border: 20px rgb(7, 7, 7);
+}
+.vb img{
+    width: 269px;
+    height: 179px;
+}
+
+.menu2{
+    display: flex;
+   margin: auto;
+}
+.dosha{
+    flex: 2;
+    text-align: center;
+    margin: 10px;
+}
+ .dosha img{
+    width: 278px;
+    height: 220px;
+
+}
+.sandwich{
+    flex: 2;
+    text-align: center;
+    margin: 10px;
+
+}
+.sandwich img {
+    width: 278px;
+    height: 220px;
+
+}
+.porrota{
+    flex: 2;
+    text-align: center;
+    margin: 10px;
+}
+.porrota img{
+    width: 278px;
+    height: 220px;
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    font-size: 20px;
+    color:white;
+}
+nav {
+    background-color:rgba(0, 0, 0, 0.336);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.ab a:hover{
+    color:lightblue
+}
+footer p {
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
